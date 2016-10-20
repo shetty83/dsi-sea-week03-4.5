@@ -27,7 +27,7 @@ There are some differences between the web crawler we will be making today, and 
 #### Requirements
 
 - Finish all cells in the provided iPython notebook. There are a few empty cells, so make sure you get them all!
-- There is a bonus for this lab. Try to do it if you finish early. It's a bonus because I don't think anyone will finish early enough to have time to do it.
+- There is a bonus for this lab. Try to do it if you finish early. It's a bonus because I don't think anyone will finish early.
 
 #### Deliverable
 - The ipython notebook from this lab
